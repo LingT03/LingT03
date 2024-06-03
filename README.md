@@ -2,17 +2,14 @@
 <a href="https://www.msudenver.edu/computer-sciences/" align="center"><h4>A Computer Science & Data Science and Machine Learning Undergraduate Student, Teaching Assistant, and Research Assistant at MSU Denver</h4></a>
 
 <p align="center"> My interest lie in Software Development! I love learning and discovering new ways to solve problems with technology!</p>
-<p align="center">
 
-<div align="center"> 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python-icon" width="78" height="78" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java-icon" width="78" height="78" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="78" height="78" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github-icon" width="78" height="78" />
-</div>
+<h5 align="left">Connect with me:</h5>
+<p align="left">
+<a href="https://www.linkedin.com/in/ling-thang-686a52213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedinLogo" height="30" width="40" /></a>
 </p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Tech Stack</h3>
 
 - Frontend
 <p align="left">
@@ -41,13 +38,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode" />
   </a>
 </p>
-
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ling-thang-686a52213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-</p>
-<br>
 
 <h3 align="left">Github Stats:</h3>
 <br/>

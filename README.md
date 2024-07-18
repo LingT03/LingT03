@@ -3,10 +3,6 @@
 
 <p align="center"> My interest lie in Software Development! I love learning and discovering new ways to solve problems with technology!</p>
 
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-<a href="https://www.linkedin.com/in/ling-thang-686a52213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedinLogo" height="30" width="40" /></a>
-</p>
 <br>
 
 <h3 align="left">My Tech Stack</h3>
@@ -37,6 +33,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode" />
   </a>
+</p>
+
+<h5 align="left">Connect with me:</h5>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ling-thang-686a52213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedinLogo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Github Stats:</h3>

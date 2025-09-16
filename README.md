@@ -1,7 +1,6 @@
 <h1 align="center">Hello! 🙂 I'm Ling Thang</h1>
+<h3 align="center"> I don't come with the knife, hire me please</h3>
 <a href="https://www.msudenver.edu/computer-sciences/" align="center"><h4>A Computer Science & Data Science and Machine Learning Student/Teaching Assistant at MSU Denver and Research Assistant at CU Anschutz Medical Campus</h4></a>
-
-<p align="center"> I don't come with the knife, hire me please</p>
 
 <br>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 🙂 I'm Ling Thang</h1>
 <a href="https://www.msudenver.edu/computer-sciences/" align="center"><h4>A Computer Science & Data Science and Machine Learning Student/Teaching Assistant at MSU Denver and Research Assistant at CU Anschutz Medical Campus</h4></a>
 
-<p align="center"> My interest lie in Software Development! I love learning and discovering new ways to solve problems with technology!</p>
+<p align="center"> I don't come with the knife, hire me please</p>
 
 <br>
 

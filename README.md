@@ -1,7 +1,8 @@
 <h1 align="center">Hello! 🙂 I'm Ling Thang</h1>
-<h3 align="center"> I don't come with the knife, hire me please</h3>
-<a href="https://www.msudenver.edu/computer-sciences/" align="center"><h4>A Computer Science & Data Science and Machine Learning Student/Teaching Assistant at MSU Denver and Research Assistant at CU Anschutz Medical Campus</h4></a>
-
+<h3 align="center"> I'm interested in Human x AI Interactions and ethical AI Development, Testing, and Integration </h3>
+<a href  ="https://jravilab.github.io/" align = "center"><h4> Undergrad Research Assistant in the JraviLab at The University of Colorado | Anschutz</h4></a>
+<a href="https://www.msudenver.edu/computer-sciences/" align="center"><h4>B.S in Computer Science, B.S Data Science and Machine Learning, Minor in Mathematics</h4></a> 
+  
 <br>
 
 <h3 align="left">My Tech Stack</h3>

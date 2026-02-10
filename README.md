@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 🙂 I'm Ling Thang</h1>
-<h3 align="center"> I'm interested in Human x AI Interactions and ethical AI Development, Testing, and Integration </h3>
-<a href  ="https://jravilab.github.io/" align = "center"><h4> Undergrad Research Assistant in the JraviLab at The University of Colorado | Anschutz</h4></a>
+<h3 align="center"> I'm interested in Causal Inference/Discovery Research, Computational Modeling, Social Network Analysis </h3>
+<a href  ="https://jravilab.github.io/" align = "center"><h4> Professional Research Assistant in the JraviLab at The University of Colorado | Anschutz Medical Campus </h4></a>
 <a href="https://www.msudenver.edu/computer-sciences/" align="center"><h4>B.S in Computer Science, B.S Data Science and Machine Learning, Minor in Mathematics</h4></a> 
   
 <br>
@@ -17,7 +17,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,nodejs,django" />
+    <img src="https://skillicons.dev/icons?i=java,python,R,nodejs,django" />
   </a>
 </p>
 
